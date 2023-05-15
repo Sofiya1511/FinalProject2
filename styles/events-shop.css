@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(0, 0, 0);
+}
+
+.main h1.events-shop-h1{
+
+margin: 300px;
+text-align: center;
+}
+
+.img-events {
+  max-width: 100%;
+ max-height: 100%;
+}

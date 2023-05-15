@@ -1,0 +1,17 @@
+.main-down{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.booking-rules p {
+  color: rgb(255, 255, 255);
+}
+
+.img-about {
+  width: 80%
+}
+
+h3 {
+  color: rgb(236, 194, 40);
+}
